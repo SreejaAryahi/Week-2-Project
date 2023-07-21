@@ -4,8 +4,7 @@ import java.util.ArrayList;
 
 public class Admin {
 	public static void main(String[] args) {
-		ArrayList al = new ArrayList();
-		
+//		String username;
+//		String password;
 	}
-
 }

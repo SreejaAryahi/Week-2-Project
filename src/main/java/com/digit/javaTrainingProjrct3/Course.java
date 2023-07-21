@@ -25,17 +25,6 @@ public class Course {
 		 
 				
 				
-	public static void main(String[] args) {
-		Course c = new Course();
-		
-		
-		
-		/*LinkedList ll = new LinkedList();
-		
-		ll.add("Course Name : Java\n");
-		ll.add("Course ID\\n");
-		System.out.println(ll);*/
-		
-	}
+	
 
 }
